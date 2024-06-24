@@ -15,7 +15,7 @@ I'm Kyaw Ko Ko Tun, a passionate programmer and tech enthusiast based in [Your L
 Here are some of my skills:
 
 - **Backend Development:** Django, Django Rest Framework
-- **Frontend Development:** React, HTML, CSS, JavaScript
+- **Frontend Development:** ReactJS, NextJS, HTML, CSS, JavaScript, TypeScript
 - **Database:** PostgreSQL, MySQL
 - **Version Control:** Git
 
@@ -26,11 +26,5 @@ Feel free to reach out if you're interested in collaboration, have any questions
 - [Facebook](https://facebook.com/kyawkokotun888)
 - [Website](https://kyawkokotun.com)
 - [Email](kyawkokotunmm475157@gmail.com)
-
-## Support
-
-You look gorgeous today!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee&logoColor=white&link=https://buymeacoffee.com/yourusername)](https://buymeacoffee.com/yourusername)
 
 Thank you for visiting! ✨
