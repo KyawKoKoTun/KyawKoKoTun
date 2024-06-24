@@ -25,6 +25,6 @@ Feel free to reach out if you're interested in collaboration, have any questions
 
 - [Facebook](https://facebook.com/kyawkokotun888)
 - [Website](https://kyawkokotun.com)
-- [Email](kyawkokotunmm475157@gmail.com)
+- [Email](mailto:kyawkokotunmm475157@gmail.com)
 
 Thank you for visiting! ✨
